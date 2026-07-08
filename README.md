@@ -72,31 +72,7 @@ Build a machine learning model to identify fraudulent credit card transactions b
 * Jupyter Notebook
 
 ---
-
-##  Repository Structure
-
-```text
-CODSOFT/
-│
-├── Titanic-Survival-Prediction/
-│   ├── Titanic_Survival_Prediction.ipynb
-│   ├── Titanic-Dataset.csv
-│   └── README.md
-│
-├── Movie-Rating-Prediction/
-│   ├── Movie_Rating_Prediction.ipynb
-│   ├── IMDb Movies India.csv
-│   └── README.md
-│
-├── Credit-Card-Fraud-Detection/
-│   ├── Credit_Card_Fraud_Detection.ipynb
-│   └── README.md
-│
-└── README.md
-```
-
 > **Note:** The Credit Card Fraud dataset is not included in this repository because it exceeds GitHub's file size limit. It can be downloaded from the official Kaggle dataset before running the notebook.
-
 ---
 
 ##  Skills Demonstrated
